@@ -68,6 +68,16 @@ table
 	border-top: 1px solid #ddd;
 }
 
+.line-separator{
+
+height:1px;
+
+background:#717171;
+
+border-bottom:1px solid #313030;
+
+}
+
 th, td
 {
 	padding: .5em 1em;
@@ -82,27 +92,5 @@ a:focus { color: black; }
 a:hover { color: green; }
 a:active { color: red; }
 
-/* -----------------------
-Layout styles
-------------------------*/
-
-.container
-{
-	max-width: 50em;
-	margin: 0 auto;
-}
-
-.header
-{
-	color: #fff;
-	background: #555;
-	padding: 1em 1.25em;
-}
-
-.content
-{
-	padding: 1em 1.25em;
-	background-color: #fff;
-}
 
 
