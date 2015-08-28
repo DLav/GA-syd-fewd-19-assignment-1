@@ -1,7 +1,3 @@
-/* -----------------------
-Base styles
-------------------------*/
-
 h1
 {
     text-align: center;
@@ -85,19 +81,8 @@ border-bottom:1px solid #313030;
 
 }
 
-th, td
-{
-	padding: .5em 1em;
-	vertical-align: top;
-	text-align: left;
-	border-bottom: 1px solid #ddd;
-}
 
-a:link { color: royalblue; }
-a:visited { color: purple; }
-a:focus { color: black; }
-a:hover { color: green; }
-a:active { color: red; }
+
 
 
 
